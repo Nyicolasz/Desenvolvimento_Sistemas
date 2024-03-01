@@ -1,0 +1,5 @@
+com\mycompany\controle_caixa\Principal.class
+com\mycompany\controle_caixa\EntradaSaidaDados.class
+com\mycompany\controle_caixa\Menu.class
+com\mycompany\controle_caixa\Caixa.class
+com\mycompany\controle_caixa\ConversorNumeros.class
